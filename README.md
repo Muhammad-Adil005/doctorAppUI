@@ -1,16 +1,14 @@
-# medics_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot1](screenshots/screenshot1.jpg)
+![Screenshot2](screenshots/screenshot2.jpg)
+![Screenshot3](screenshots/screenshot3.jpg)
+![Screenshot4](screenshots/screenshot4.jpg)
+![Screenshot5](screenshots/screenshot5.jpg)
+![Screenshot6](screenshots/screenshot6.jpg)
+![Screenshot7](screenshots/screenshot7.jpg)
+![Screenshot8](screenshots/screenshot8.jpg)
+![Screenshot9](screenshots/screenshot9.jpg)
+![Screenshot10](screenshots/screenshot10.jpg)
+![Screenshot11](screenshots/screenshot11.jpg)
+![Screenshot12](screenshots/screenshot12.jpg)
